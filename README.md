@@ -12,4 +12,4 @@ Materi yang dipelajari:
 
 ### 1. Bookshelf Apps
 
-[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](https://cperdiansyah.github.io/Dicoding-Front-End-Web-Developer/belajar-membuat-front-end-web-untuk-pemula/app/)
+[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)]https://cperdiansyah.github.io/dicoding-belajar-membuat-front-end-web-untuk-pemula/app/)
